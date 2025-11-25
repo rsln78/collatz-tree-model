@@ -21,9 +21,6 @@ The paper introduces:
 ## Contents
 
 - `paper.pdf` — The full manuscript.  
-- `figures/` — Diagrams illustrating the tree model.  
-- `examples/` — Computation examples and verification scripts (optional).  
-
 ## Purpose
 
 This work aims to provide:
@@ -67,10 +64,6 @@ If you reference this work, please cite the DOI generated through Zenodo.
 ## 目录
 
 - `paper.pdf` — 完整论文。
-
-- `figures/` — 树模型示意图。
-
-- `examples/` — 计算示例和验证脚本（可选）。
 
 ## 目的
 
